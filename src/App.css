@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite!important;
+}
+
+.page-item.active .page-link{
+  background-color: #121212!important;
+  border-color: #121212!important;
+}
+
+.active-item {
+  background-color: black; /* Set the background color for the active item */
+  color: white; /* Set the text color for the active item */
+  /* Add any other desired styles for the active item */
+}
